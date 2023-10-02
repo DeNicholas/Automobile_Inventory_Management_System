@@ -1,0 +1,16 @@
+Part Name		       Part ID		Stock		Date Modified
+engine block                  BLZ-001             5         Sat Sep 30 13:28:34 2023
+piston                        BLZ-002             5         Sat Sep 30 13:28:34 2023
+crankshaft                    BLZ-003             5         Sat Sep 30 13:28:34 2023
+camshaft                      BLZ-004             5         Sat Sep 30 13:28:34 2023
+cylinder head                 BLZ-005             5         Sat Sep 30 13:28:34 2023
+bonet                         BLZ-006             5         Sat Sep 30 13:28:35 2023
+bumper                        BLZ-007             5         Sat Sep 30 13:28:35 2023
+door                          BLZ-008             5         Sat Sep 30 13:28:36 2023
+windshield                    BLZ-009             5         Sat Sep 30 13:28:36 2023
+wiper                         BLZ-010             5         Sat Sep 30 13:28:36 2023
+mirror                        BLZ-011             5         Sat Sep 30 13:28:37 2023
+headlights                    BLZ-012             5         Sat Sep 30 13:28:37 2023
+compressor                    BLZ-013             5         Sat Sep 30 13:28:37 2023
+condenser                     BLZ-014             5         Sat Sep 30 13:28:38 2023
+evaporator                    BLZ-015             5         Sat Sep 30 13:28:38 2023

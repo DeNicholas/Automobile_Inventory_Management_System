@@ -1,0 +1,46 @@
+Part Name			Part ID		Stock		Date Modified				Supplier Name			Supplier Code
+engine block                  ARM-001             0         Sat Sep 30 12:33:23 2023                Dives La Victoria                       DLV                 
+piston                        ARM-002             0         Sat Sep 30 12:33:23 2023                Dives La Victoria                       DLV                 
+crankshaft                    ARM-003             0         Sat Sep 30 12:33:23 2023                Dives La Victoria                       DLV                 
+camshaft                      ARM-004             0         Sat Sep 30 12:33:23 2023                Dives La Victoria                       DLV                 
+cylinder head                 ARM-005             0         Sat Sep 30 12:33:23 2023                Dives La Victoria                       DLV                 
+bonet                         ARM-006             0         Sat Sep 30 12:33:23 2023                Future Motors                           FM                  
+bumper                        ARM-007             0         Sat Sep 30 12:33:23 2023                Future Motors                           FM                  
+door                          ARM-008             0         Sat Sep 30 12:33:23 2023                Future Motors                           FM                  
+windshield                    ARM-009             0         Sat Sep 30 12:33:23 2023                Future Motors                           FM                  
+wiper                         ARM-010             0         Sat Sep 30 12:33:23 2023                Future Motors                           FM                  
+mirror                        ARM-011             0         Sat Sep 30 12:33:23 2023                Future Motors                           FM                  
+headlights                    ARM-012             0         Sat Sep 30 12:33:23 2023                Future Motors                           FM                  
+compressor                    ARM-013             0         Sat Sep 30 12:33:23 2023                Tiger Motors                            TM                  
+condenser                     ARM-014             0         Sat Sep 30 12:33:23 2023                Tiger Motors                            TM                  
+evaporator                    ARM-015             0         Sat Sep 30 12:33:23 2023                Tiger Motors                            TM                  
+engine block                  BLZ-001             18        Sat Sep 30 13:28:23 2023                Dives La Victoria                       DLV                 
+piston                        BLZ-002             34        Sat Sep 30 12:32:56 2023                Dives La Victoria                       DLV                 
+crankshaft                    BLZ-003             9430      Sat Sep 30 12:32:56 2023                Dives La Victoria                       DLV                 
+camshaft                      BLZ-004             9342      Sat Sep 30 12:32:57 2023                Dives La Victoria                       DLV                 
+cylinder head                 BLZ-005             349       Sat Sep 30 12:32:58 2023                Dives La Victoria                       DLV                 
+bonet                         BLZ-006             23490     Sat Sep 30 12:32:58 2023                Future Motors                           FM                  
+bumper                        BLZ-007             490       Sat Sep 30 12:32:59 2023                Future Motors                           FM                  
+door                          BLZ-008             349       Sat Sep 30 12:33:00 2023                Future Motors                           FM                  
+windshield                    BLZ-009             2349      Sat Sep 30 12:33:00 2023                Future Motors                           FM                  
+wiper                         BLZ-010             392       Sat Sep 30 12:33:01 2023                Future Motors                           FM                  
+mirror                        BLZ-011             2349      Sat Sep 30 12:33:01 2023                Future Motors                           FM                  
+headlights                    BLZ-012             23490     Sat Sep 30 12:33:02 2023                Future Motors                           FM                  
+compressor                    BLZ-013             349       Sat Sep 30 12:33:03 2023                Tiger Motors                            TM                  
+condenser                     BLZ-014             23490     Sat Sep 30 12:33:03 2023                Tiger Motors                            TM                  
+evaporator                    BLZ-015             2349      Sat Sep 30 12:33:05 2023                Tiger Motors                            TM                  
+engine block                  SLK-001             4903209   Sat Sep 30 12:33:13 2023                Dives La Victoria                       DLV                 
+piston                        SLK-002             23490     Sat Sep 30 12:33:13 2023                Dives La Victoria                       DLV                 
+crankshaft                    SLK-003             439       Sat Sep 30 12:33:14 2023                Dives La Victoria                       DLV                 
+camshaft                      SLK-004             349       Sat Sep 30 12:33:14 2023                Dives La Victoria                       DLV                 
+cylinder head                 SLK-005             2         Sat Sep 30 12:33:15 2023                Dives La Victoria                       DLV                 
+bonet                         SLK-006             3490      Sat Sep 30 12:33:15 2023                Future Motors                           FM                  
+bumper                        SLK-007             349       Sat Sep 30 12:33:16 2023                Future Motors                           FM                  
+door                          SLK-008             290       Sat Sep 30 12:33:16 2023                Future Motors                           FM                  
+windshield                    SLK-009             9         Sat Sep 30 12:33:17 2023                Future Motors                           FM                  
+wiper                         SLK-010             391       Sat Sep 30 12:33:17 2023                Future Motors                           FM                  
+mirror                        SLK-011             93        Sat Sep 30 12:33:18 2023                Future Motors                           FM                  
+headlights                    SLK-012             923       Sat Sep 30 12:33:19 2023                Future Motors                           FM                  
+compressor                    SLK-013             9432      Sat Sep 30 12:33:19 2023                Tiger Motors                            TM                  
+condenser                     SLK-014             490       Sat Sep 30 12:33:20 2023                Tiger Motors                            TM                  
+evaporator                    SLK-015             9340      Sat Sep 30 12:33:21 2023                Tiger Motors                            TM                  

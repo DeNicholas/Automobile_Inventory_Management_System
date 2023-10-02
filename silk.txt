@@ -1,0 +1,16 @@
+Part Name		       Part ID		Stock		Date Modified
+engine block                  SLK-001             5         Sat Sep 30 13:28:43 2023
+piston                        SLK-002             5         Sat Sep 30 13:28:43 2023
+crankshaft                    SLK-003             5         Sat Sep 30 13:28:44 2023
+camshaft                      SLK-004             5         Sat Sep 30 13:28:44 2023
+cylinder head                 SLK-005             5         Sat Sep 30 13:28:44 2023
+bonet                         SLK-006             5         Sat Sep 30 13:28:44 2023
+bumper                        SLK-007             5         Sat Sep 30 13:28:45 2023
+door                          SLK-008             5         Sat Sep 30 13:28:45 2023
+windshield                    SLK-009             5         Sat Sep 30 13:28:45 2023
+wiper                         SLK-010             5         Sat Sep 30 13:28:45 2023
+mirror                        SLK-011             5         Sat Sep 30 13:28:45 2023
+headlights                    SLK-012             5         Sat Sep 30 13:28:46 2023
+compressor                    SLK-013             5         Sat Sep 30 13:28:46 2023
+condenser                     SLK-014             5         Sat Sep 30 13:28:47 2023
+evaporator                    SLK-015             5         Sat Sep 30 13:28:47 2023
